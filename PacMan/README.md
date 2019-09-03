@@ -22,7 +22,7 @@ PPPPPPPPPP          aaaaaaaaaa  aaaa   cccccccccccccccc                 MMMMMMMM
 
 
 ## Welcome!
-This is the final project for Brooklyn College CISC 3140 Spring 2019: 
+This is the final project for class CISC 3140 Spring 2019 semester at Brooklyn College: 
 This is a recreation of the classic game Pac-Man!
 This was created by Group 2, we hope you enjoy the game!
 Use the arrow keys to control pac-man, and eat all the pellets! Don't let the
