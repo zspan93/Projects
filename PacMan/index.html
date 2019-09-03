@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Pacman</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+  </head>
+
+  <body>
+    <div id="game">
+      <canvas id="board"></canvas>
+
+      <div id="panel">
+        <p id="score"></p>
+        <p id="lives"></p>
+        <button id="restartBtn" onclick="restart()">RESTART</button>
+      </div>
+      <div id="music">
+        <audio autoplay loop src="./assets/music/pactheme.mp3"></audio>
+      </div>
+
+      <script src="js/main.js"></script>
+    </div>
+  </body>
+</html>
